@@ -1,4 +1,4 @@
-# Visual-xyz-for-UEFI-Shell
+# Visual-Studio-for-UEFI-Shell
 collection of UEFI Shell projects for Visual Studio:
 
 1. [Visual-ANSI-C-for-UEFI-Shell](https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell#visual-ansi-c-for-uefi-shell)
