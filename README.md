@@ -4,7 +4,7 @@ Getting started with Visual Studio 2019 for UEFI Shell and ANSI C cross-developm
 Many samples, how to 
 * use [native UEFI API](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf) from ANSI C
 * access PCI
-* port MSDOS programs to UEFI Shell
+* port MSDOS programs to UEFI Shell ([find](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell/blob/master/find/main.c), [more](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell/blob/master/more/main.c))
 
 ![C](https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell/blob/master/CfgMgr.png)
 
