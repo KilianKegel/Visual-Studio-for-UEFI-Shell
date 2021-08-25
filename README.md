@@ -1,5 +1,5 @@
 # Visual-Studio-for-UEFI-Shell
-Getting started with Visual Studio 2019 for UEFI Shell and ANSI C cross-development.
+Getting started with Visual Studio 2022 for UEFI Shell and ANSI C cross-development.
 
 Many samples, how to 
 * use [native UEFI API](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf) from ANSI C
