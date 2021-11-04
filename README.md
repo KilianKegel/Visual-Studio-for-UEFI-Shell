@@ -1,5 +1,5 @@
 # Visual-Studio-for-UEFI-Shell
-![visualUefi](visualUefi.png)
+![visualUefi](visualUefiWide.png)
 Getting started with Visual Studio 2022 for UEFI Shell and ANSI C cross-development.
 
 Many samples, how to 
