@@ -1,6 +1,6 @@
 # Visual-Studio-for-UEFI-Shell
-![visualUefi](visualUefiWide.png)
 Getting started with Visual Studio 2022 for UEFI Shell and ANSI C cross-development.
+![visualUefi](visualUefiWide.png)
 
 Many samples, how to 
 * use [native UEFI API](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf) from ANSI C
