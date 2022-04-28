@@ -1,0 +1,12 @@
+[submodule "Visual-ANSI-C-for-UEFI-Shell"]
+	path = Visual-ANSI-C-for-UEFI-Shell
+	url = https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell.git
+[submodule "Visual-HWTools-for-UEFI-Shell"]
+	path = Visual-HWTools-for-UEFI-Shell
+	url = https://github.com/KilianKegel/Visual-HWTools-for-UEFI-Shell.git
+[submodule "Visual-DOS-Tools-for-UEFI-Shell"]
+	path = Visual-DOS-Tools-for-UEFI-Shell
+	url = https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell.git
+[submodule "Visual-ACPICA-for-UEFI-Shell"]
+	path = Visual-ACPICA-for-UEFI-Shell
+	url = https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-Shell.git
