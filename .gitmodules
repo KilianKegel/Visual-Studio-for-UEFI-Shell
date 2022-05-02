@@ -10,3 +10,6 @@
 [submodule "Visual-ACPICA-for-UEFI-Shell"]
 	path = Visual-ACPICA-for-UEFI-Shell
 	url = https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-Shell.git
+[submodule "Visual-LIBXLSXWRITER-for-UEFI-Shell"]
+	path = Visual-LIBXLSXWRITER-for-UEFI-Shell
+	url = https://github.com/KilianKegel/Visual-LIBXLSXWRITER-for-UEFI-Shell.git
