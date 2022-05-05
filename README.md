@@ -18,6 +18,9 @@ collection of UEFI Shell projects for Visual Studio:
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
+### 20220505
+* suppress build warning *MSB8012* due to redirected library output path
+
 ### 20220502
 * add  Visual-LIBXLSXWRITER-for-UEFI-Shell
 * update to **TORO C Library** *20220501* for all projects

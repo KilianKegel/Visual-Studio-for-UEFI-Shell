@@ -13,3 +13,6 @@
 [submodule "Visual-LIBXLSXWRITER-for-UEFI-Shell"]
 	path = Visual-LIBXLSXWRITER-for-UEFI-Shell
 	url = https://github.com/KilianKegel/Visual-LIBXLSXWRITER-for-UEFI-Shell.git
+[submodule "Visual-LIBWIN32-for-UEFI"]
+	path = Visual-LIBWIN32-for-UEFI
+	url = https://github.com/KilianKegel/Visual-LIBWIN32-for-UEFI.git
