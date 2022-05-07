@@ -18,6 +18,13 @@ collection of UEFI Shell projects for Visual Studio:
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
+### 20220507
+* **Visual-ANSI-C-for-UEFI-Shell:** 
+	- add support and demo for John McNamara's Microsoft Excel writer library [*libxlsxwriter*](https://github.com/jmcnamara/libxlsxwriter#libxlsxwriter)
+* **Visual-DOS-Tools-for-UEFI-Shell:** 
+	- update/improve `find`, `more` to support both 8+16Bit `stdin`
+	- add program documentation
+
 ### 20220505
 * suppress build warning *MSB8012* due to redirected library output path
 
