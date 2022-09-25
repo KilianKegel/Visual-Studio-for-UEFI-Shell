@@ -18,6 +18,10 @@ collection of UEFI Shell projects for Visual Studio:
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
+### 20220924
+*   **Visual-ANSI-C-for-UEFI-Shell:** 
+    change menu activation key (formerly ALT) to F10  for "C++ text UI/UX" sample program WELCOME14
+    NOTE: ALT-key is not supported on all platforms https://www.youtube.com/watch?v=gMwCKA6SQrk
 ### 20220607
 * **Visual-ANSI-C-for-UEFI-Shell:** 
 	- demonstration of C++ text UI/UX design for UEFI Shell
