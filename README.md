@@ -18,6 +18,10 @@ collection of UEFI Shell projects for Visual Studio:
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
+### 20221009
+*   add **Visual-REFERENCE-COMPOSITION-for-UEFI** to demonstrate how to compose an project 
+	based on various libraries from external projects and configure
+	`Release`/`Debug` for Windows/UEFI targets.
 ### 20220924
 *   **Visual-ANSI-C-for-UEFI-Shell:** 
     change menu activation key (formerly ALT) to F10  for "C++ text UI/UX" sample program WELCOME14
