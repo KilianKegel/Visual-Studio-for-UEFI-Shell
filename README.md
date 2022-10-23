@@ -12,10 +12,11 @@ Many samples, how to
 collection of UEFI Shell projects for Visual Studio:
 
 0. [Visual-REFERENCE-COMPOSITION-for-UEFI](https://github.com/KilianKegel/Visual-Studio-for-UEFI-Shell/tree/master/Visual-REFERENCE-COMPOSITION-for-UEFI)
-1. [Visual-ANSI-C-for-UEFI-Shell](https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell#visual-ansi-c-for-uefi-shell)
-2. [Visual-HWTools-for-UEFI-Shell](https://github.com/KilianKegel/Visual-HWTools-for-UEFI-Shell)
-3. [Visual-DOS-Tools-for-UEFI-Shell](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell)
-4. [Visual-ACPICA-for-UEFI-Shell](https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-Shell)
+1. [Visual-TORO-C-LIBRARY-for-UEFI](https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI)
+2. [Visual-ANSI-C-for-UEFI-Shell](https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell#visual-ansi-c-for-uefi-shell)
+3. [Visual-HWTools-for-UEFI-Shell](https://github.com/KilianKegel/Visual-HWTools-for-UEFI-Shell)
+4. [Visual-DOS-Tools-for-UEFI-Shell](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell)
+5. [Visual-ACPICA-for-UEFI-Shell](https://github.com/KilianKegel/Visual-ACPICA-for-UEFI-Shell)
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
