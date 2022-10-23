@@ -18,6 +18,10 @@ collection of UEFI Shell projects for Visual Studio:
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
+### 20221022
+* add `O_TEMPORARY` support to Microsoft/POSIX `_open()`
+* fixed "fall time bug" (autumn). Broken time calculation on 
+  two digit month number (Oct, Nov, Dec).
 ### 20221009
 *   add **Visual-REFERENCE-COMPOSITION-for-UEFI** to demonstrate how to compose an project 
 	based on various libraries from external projects and configure
