@@ -22,6 +22,8 @@ collection of UEFI Shell projects for Visual Studio:
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
+### 20230212
+* update to **TORO C Library** *20230212*
 ### 20230104
 * update to **TORO C Library** *20230104*
 ### 20221023
