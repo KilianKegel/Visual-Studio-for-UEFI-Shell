@@ -22,7 +22,12 @@ collection of UEFI Shell projects for Visual Studio:
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
-### 20230212
+### 20230305
+* update:
+    * `Visual-ANSI-C-for-UEFI-Shell`
+    * `Visual-DOS-Tools-for-UEFI-Shell`
+    * `Visual-TORO-C-LIBRARY-for-UEFI`
+### 2023021
 * update to **TORO C Library** *20230212*
 ### 20230104
 * update to **TORO C Library** *20230104*
