@@ -1,3 +1,4 @@
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=KilianKegel.kiliankegel)
 # Visual-Studio-for-UEFI-Shell
 Getting started with Visual Studio 2022 for UEFI Shell and ANSI C cross-development.
 ![visualUefi](visualUefiWide.png)
