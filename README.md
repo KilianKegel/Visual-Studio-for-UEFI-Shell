@@ -3,13 +3,6 @@
 Getting started with Visual Studio 2022 for UEFI Shell and ANSI C cross-development.
 ![visualUefi](visualUefiWide.png)
 
-Many samples, how to 
-* use [native UEFI API](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf) from ANSI C
-* access PCI
-* port MSDOS programs to UEFI Shell ([find](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell/blob/master/find/main.c), [more](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell/blob/master/more/main.c))
-
-![C](https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell/blob/master/CfgMgr.png)
-
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Visual-UEFI-SHELL#edk2-uefi-shell--visual-uefi-shell)](https://github.com/KilianKegel/Visual-UEFI-SHELL#edk2-uefi-shell--visual-uefi-shell)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Visual-ANSI-C-for-UEFI-Shell#visual-ansi-c-for-uefi-shell)](https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell#visual-ansi-c-for-uefi-shell)
@@ -19,6 +12,14 @@ Many samples, how to
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Visual-LIBWIN32-for-UEFI)](https://github.com/KilianKegel/Visual-LIBWIN32-for-UEFI)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Visual-HWTools-for-UEFI-Shell)](https://github.com/KilianKegel/Visual-HWTools-for-UEFI-Shell)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Visual-LIBXLSXWRITER-for-UEFI-Shell)](https://github.com/KilianKegel/Visual-LIBXLSXWRITER-for-UEFI-Shell)
+
+
+Many samples, how to 
+* use [native UEFI API](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf) from ANSI C
+* access PCI
+* port MSDOS programs to UEFI Shell ([find](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell/blob/master/find/main.c), [more](https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell/blob/master/more/main.c))
+
+![C](https://github.com/KilianKegel/Visual-ANSI-C-for-UEFI-Shell/blob/master/CfgMgr.png)
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
