@@ -123,7 +123,7 @@ int main(/*int argc, char** argv*/)
     char strtmp[32];
 
 
-    printf("Welcome, to the jungle...\n");
+    printf("Welcome, to Visual-REFERENCE-COMPOSITION-for-UEFI ...\n");
 
     ////
     // fill buffer with a pattern 
@@ -139,6 +139,7 @@ int main(/*int argc, char** argv*/)
     ////
     // dump buffer an EXCEL file "hexdump.xlsx"
     ////
+    printf("Write buffer to EXCEL file \"hexdump.xlsx\"...");
     lxw_workbook* workbook = workbook_new("hexdump.xlsx");
 
     worksheet = workbook_add_worksheet(workbook, NULL);
@@ -153,9 +154,10 @@ int main(/*int argc, char** argv*/)
         worksheet_write_string(worksheet, 0, (lxw_col_t)i + 1, strtmp, NULL);
     }
 
-    UniDump(hexparms, BSIZE, (unsigned long long)p, pfn, WriteString2XLSX);
+    //UniDump(hexparms, BSIZE, (unsigned long long)p, pfn, WriteString2XLSX);
 
     workbook_close(workbook);
+    printf("finished\n");
 
     return 0;
 }

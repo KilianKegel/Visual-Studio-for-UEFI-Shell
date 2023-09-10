@@ -23,6 +23,14 @@ Many samples, how to
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
+### 20230910
+* update to **TORO C Library** *20230909*
+* improve **Visual-REFERENCE-COMPOSITION-for-UEFI** project
+* update:
+    * `Visual-ACPICA-for-UEFI-Shell`
+    * `Visual-ANSI-C-for-UEFI-Shell`
+    * `Visual-DOS-Tools-for-UEFI-Shell`
+    * `Visual-TORO-C-LIBRARY-for-UEFI`
 ### 20230410
 * update to **TORO C Library** *20230409*
 * update:
