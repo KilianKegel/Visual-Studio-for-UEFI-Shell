@@ -23,7 +23,16 @@ Many samples, how to
 
 # Revision history
 https://github.com/KilianKegel/torito-C-Library#revision-history
-* update to **TORO C Library** *20231014*
+### 20250517
+* update to **toro C Library** **v0.9.1 Build 269**
+* update:
+    * `Visual-ACPICA-for-UEFI-Shell`
+    * `Visual-ANSI-C-for-UEFI-Shell`
+    * `Visual-DOS-Tools-for-UEFI-Shell`
+    * `Visual-TORO-C-LIBRARY-for-UEFI`
+
+### 20231014
+* update to **toro C Library** *20231014*
 * improve **Visual-REFERENCE-COMPOSITION-for-UEFI** project
 * update:
     * `Visual-ACPICA-for-UEFI-Shell`
@@ -31,7 +40,7 @@ https://github.com/KilianKegel/torito-C-Library#revision-history
     * `Visual-DOS-Tools-for-UEFI-Shell`
     * `Visual-TORO-C-LIBRARY-for-UEFI`
 ### 20230910
-* update to **TORO C Library** *20230909*
+* update to **toro C Library** *20230909*
 * improve **Visual-REFERENCE-COMPOSITION-for-UEFI** project
 * update:
     * `Visual-ACPICA-for-UEFI-Shell`
@@ -39,7 +48,7 @@ https://github.com/KilianKegel/torito-C-Library#revision-history
     * `Visual-DOS-Tools-for-UEFI-Shell`
     * `Visual-TORO-C-LIBRARY-for-UEFI`
 ### 20230410
-* update to **TORO C Library** *20230409*
+* update to **toro C Library** *20230409*
 * update:
     * `Visual-ACPICA-for-UEFI-Shell`
     * `Visual-ANSI-C-for-UEFI-Shell`
@@ -51,9 +60,9 @@ https://github.com/KilianKegel/torito-C-Library#revision-history
     * `Visual-DOS-Tools-for-UEFI-Shell`
     * `Visual-TORO-C-LIBRARY-for-UEFI`
 ### 2023021
-* update to **TORO C Library** *20230212*
+* update to **toro C Library** *20230212*
 ### 20230104
-* update to **TORO C Library** *20230104*
+* update to **toro C Library** *20230104*
 ### 20221023
 * provide additional libraries to ease project composition
     * [Visual-REFERENCE-COMPOSITION-for-UEFI](https://github.com/KilianKegel/Visual-Studio-for-UEFI-Shell/tree/master/Visual-REFERENCE-COMPOSITION-for-UEFI)
@@ -87,4 +96,4 @@ https://github.com/KilianKegel/torito-C-Library#revision-history
 
 ### 20220502
 * add  Visual-LIBXLSXWRITER-for-UEFI-Shell
-* update to **TORO C Library** *20220501* for all projects
+* update to **toro C Library** *20220501* for all projects
